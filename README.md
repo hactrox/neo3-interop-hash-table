@@ -1,4 +1,4 @@
-# neo3-interop-hash-table
+# Neo3 interopDescriptor hash table
 
 |   hash   |   integer  | interop                                    |
 |:--------:|:----------:|--------------------------------------------|
